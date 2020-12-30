@@ -3,3 +3,4 @@ target/
 /rest-api.iml
 /.idea/
 /.mvn/
+.DS_Store
